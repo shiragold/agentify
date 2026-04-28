@@ -1,0 +1,11 @@
+{
+  "name": "css",
+  "description": "CSS skills: layout fundamentals, modern features, debugging. Use when writing or fixing CSS.",
+  "version": "0.1.0",
+  "author": {
+    "name": "gold",
+    "email": "shira14@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["css", "layout", "frontend", "web"]
+}
