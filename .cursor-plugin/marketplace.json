@@ -1,0 +1,24 @@
+{
+  "name": "agentify",
+  "owner": {
+    "name": "gold",
+    "email": "shira14@gmail.com"
+  },
+  "metadata": {
+    "description": "Agent-agnostic markdown plugin marketplace: skills, rules, and agents that work with Claude Code and Cursor."
+  },
+  "plugins": [
+    {
+      "name": "css",
+      "source": "css",
+      "description": "CSS skills: layout fundamentals, modern features, debugging. Use when writing or fixing CSS.",
+      "category": "frontend",
+      "keywords": [
+        "css",
+        "layout",
+        "frontend",
+        "web"
+      ]
+    }
+  ]
+}
