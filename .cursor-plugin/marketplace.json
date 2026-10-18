@@ -19,6 +19,11 @@
         "frontend",
         "web"
       ]
+    },
+    {
+      "name": "ai10x",
+      "source": "ai10x",
+      "description": "Skills for creating and improving agent skills."
     }
   ]
 }

@@ -38,6 +38,13 @@ Goal: a markdown-based plugin marketplace installable from both Claude Code (`/p
   - [x] End-to-end scaffolding test passed (created `test-plugin`, added a skill, validator passed, then reverted).
   - [x] Error paths verified: kebab-case validation, duplicate plugin/skill detection, missing-plugin detection.
 
+## v2: `ai10x` plugin
+
+- [x] Scaffold `ai10x` plugin (name chosen over "10xai", which fails the kebab-case leading-letter validation).
+- [x] Add `skiller` skill — user-invoked (`disable-model-invocation: true`), description: "The ultimate way to generate a superb agent skill".
+- [x] `node scripts/validate.mjs` → `OK`.
+- [x] Write `skiller` skill content (7-step skill-authoring workflow).
+
 ## Backlog (later)
 
 - Submit to Cursor curated marketplace at https://cursor.com/marketplace/publish.
